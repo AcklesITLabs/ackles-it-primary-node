@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Large local-only files
+*.zip
+*.iso
+*.vhdx
+*.img
