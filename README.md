@@ -36,6 +36,18 @@ This system is intended to serve as:
 
 ---
 
+## Skills Demonstrated
+
+- Technical documentation
+- Hardware compatibility analysis
+- Workstation architecture planning
+- PCIe lane and storage layout awareness
+- Cooling and airflow design
+- Power delivery planning
+- Git/GitHub version control workflow
+
+---
+
 ## Repository Structure
 
 ```text
